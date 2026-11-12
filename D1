@@ -1,3 +1,29 @@
 Day 1 resources:
 https://edwarddonner.com/2026/10/14/ai-fde-the-forward-deployed-engineer-agentic-ai-architect/
 
+AI Engineering
+
+-> Agent Lop and tools 
+-> Frontier LLMs and Agents
+-> Model Selection
+-> Agent Framework
+-> Coding Agents
+-> The ADLC
+-> Open -source and Local models
+-> Token cost 
+-> Context Engineering 
+-> Harness Engineering
+
+
+AI Architecture:
+
+-> System design
+-> Agent Architecture
+-> Eval and observality
+-> Cost and speed tradeoff
+-> Agentic RAG and memory 
+-> MCP
+-> Durable state
+->Human in the loop
+-> Agnet swarms
+-> Self Improvement
