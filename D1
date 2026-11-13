@@ -34,3 +34,8 @@ GIT
 NODE
 UV (python)
 
+Clone the repo https://github.com/ed-donner/undercover.git
+create the .env file in root dir
+ and add the key OPENROUTER_API_KEY= (same key generated/vs code)
+in  the setup.ipynb select kernal undercover (same undercover)
+do the steps which was done the google connector and exexute the code
