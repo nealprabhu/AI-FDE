@@ -1,0 +1,10 @@
+LLM to AI product 
+  Product (end user application)
+  ->  chat GPT, Claude code,Atlassian ROVO
+
+  Software(code that runs LLM interace)
+  ->Open AI platform, AWS bedrock, OpenRouter
+
+  LLM (A statistical pattern  matcher)
+  -> GPT, CLaude , Gemini
+  
